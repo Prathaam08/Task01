@@ -19,6 +19,11 @@ Clean and prepare raw Titanic dataset for machine learning.
 5. Visualized and removed outliers using boxplots and IQR method.
 6. Saved the cleaned dataset.
 
+## Dataset
+  ```bash
+  https://www.kaggle.com/datasets/yasserh/titanic-dataset
+  ```
+
 ## How to Run
 1. 
    ```bash
