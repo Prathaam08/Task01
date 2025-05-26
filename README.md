@@ -20,6 +20,6 @@ Clean and prepare raw Titanic dataset for machine learning.
 6. Saved the cleaned dataset.
 
 ## How to Run
-1. Install required packages:
+1. 
    ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
+   python task01.py
