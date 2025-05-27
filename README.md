@@ -27,7 +27,7 @@ Clean and prepare raw Titanic dataset for machine learning.
 
    
 ## Screenshot
-![Histogram](screenshot/task2.png)
+![Histogram](screenshot/output.png)
 
 ## Dataset
 You can download the Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic/data) or use the one provided here.
