@@ -1,4 +1,3 @@
-# Task01
 # Task 1: Data Cleaning & Preprocessing
 
 ## Objective
